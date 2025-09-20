@@ -24,6 +24,6 @@ Chunking is an essential step in Retrieval-Augmented Generation (RAG), chatbots,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/document-chunking-langchain.git
+git clone https://github.com/wekundan/document-chunking-langchain.git
 cd document-chunking-langchain
 pip install -r requirements.txt
